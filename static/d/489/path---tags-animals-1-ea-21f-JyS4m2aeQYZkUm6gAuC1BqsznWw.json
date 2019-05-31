@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog","author":"Kyle Mathews"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"timeToRead":1,"fields":{"slug":"/hello-world/"},"frontmatter":{"title":"Hello World","date":"May 01, 2015"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"animals"}}
